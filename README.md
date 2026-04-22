@@ -74,7 +74,7 @@ Open Amazon.html in your browser
 ### 🏠 Homepage UI
 
 <p align="center">
-  <img src="ScreenShot/Clone.jpg" alt="Homepage" width="700"/>
+  <img src="ScreenShot/Clone.png" alt="Homepage" width="700"/>
 </p>
 
 ### 🛍 Product Section
